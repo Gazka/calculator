@@ -70,7 +70,6 @@ button:hover {
     cursor: pointer;
 }
 
-/* Untuk Smartphone */
 @media all and (max-width: 670px) {
     .calculator-screen {
         width: 100%;

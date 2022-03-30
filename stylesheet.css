@@ -67,7 +67,7 @@ button:hover {
 
 .equal-sign:hover {
     background-color: darkorange;
-    cursor: pointer;
+/*     cursor: pointer; */
 }
 
 @media all and (max-width: 670px) {

@@ -69,3 +69,19 @@ button:hover {
     background-color: darkorange;
     cursor: pointer;
 }
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+    .calculator-screen {
+        width: 100%;
+        font-size: 30px;
+    }
+
+    .calculator-keys {
+        width: 100%;
+    }
+
+    .button {
+        font-size: 28px;
+    }
+}
